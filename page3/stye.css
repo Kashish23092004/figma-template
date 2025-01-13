@@ -1,0 +1,384 @@
+*{
+    
+    margin: 0%;
+    padding: 0%;
+    
+}
+html {
+    scroll-behavior: smooth;
+}
+a {
+     text-decoration: none;
+     color: #CC4156
+     }; 
+body{
+    background-color:#FFCCD3;
+}
+.upper{
+    background-color: #FFFAFA;
+}
+.nav{
+    display: flex;
+
+}
+.nav>img{
+    margin-left:5%;
+}
+.right{
+    display: flex;
+    margin-left:26%;
+
+}
+.right>h1{
+    word-break: normal;
+    overflow-wrap: normal;
+    font-size:x-large;
+    margin-left:2%;
+    margin-right:10%;
+    white-space: normal;
+    width: auto;
+}
+.bottom{
+    display: flex;
+}
+#left{
+    height:100%;
+    width:40%;
+}
+#right{
+    background-color: #FFCCD3;
+    height: 100%;
+    width:60%;
+    margin-top: 0%;
+}
+#left>h1{
+    margin-top:4%;
+    padding-left:30%;
+    color:#CC4156;
+    font-size:18px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.cookies{
+    color: #CC4156;
+    margin-left:40%;
+}
+.cookies>h1{
+    padding-top:5%;
+}
+.cook{
+    display: flex;
+    margin-top:5%;
+}
+.cookies1{
+    margin-left: 20%;
+}
+.cookies1>h1{
+    font-weight: 200%;
+    font-size: large;
+    margin-left:10%;
+    color: #CC4156;
+}
+.cookies2{
+    margin-left:20%;
+}
+.cookies1>button{
+    background-color:#9BCCA3;
+    color: #fff;
+    border: none;
+    padding:4%;
+    border-radius:25px;
+    margin-left:15%;
+    margin-top:5%;
+}
+.cookies3{
+    margin-left: 20%;
+    margin-top:4%;
+}
+.cookies3>h1{
+    font-weight: 200%;
+    font-size: large;
+    margin-left:5%;
+    color: #CC4156;
+}
+.cookies3>button{
+    background-color:#9BCCA3;
+    color: #fff;
+    border: none;
+    padding:1%;
+    border-radius:25px;
+    margin-left:7%;
+    margin-top:2%;
+}
+.waffles>h1{
+    color: #CC4156;
+    margin-left:40%;
+    margin-bottom:5%;
+    margin-top:5%;
+}
+.waffles1>h1{
+    font-weight: 200%;
+    font-size: large;
+    margin-left:28%;
+    color: #CC4156;
+}
+.waffles1>button{
+    background-color:#9BCCA3;
+    color: #fff;
+    border: none;
+    padding:1%;
+    border-radius:25px;
+    margin-left:28%;
+    margin-top:2%;
+}
+.waffles1>img{
+    margin-left:23%;
+}
+
+
+.macroons>h1{
+    color: #CC4156;
+    margin-left:40%;
+}
+.macroons>h1{
+    padding-top:5%;
+}
+.mac{
+    display: flex;
+    margin-top:5%;
+}
+.macroons1{
+    margin-left: 20%;
+}
+.macroons1>h1{
+    font-weight: 200%;
+    font-size: large;
+    margin-left:10%;
+    color: #CC4156;
+}
+.macroons2{
+    margin-left:20%;
+}
+
+button{
+    background-color:#9BCCA3;
+    color: #fff;
+    border: none;
+    padding:4%;
+    border-radius:25px;
+    margin-left:15%;
+    margin-top:5%;
+}
+.macroons3{
+    margin-left: 20%;
+    margin-top:4%;
+}
+.macroons3>h1{
+    font-weight: 200%;
+    font-size: large;
+    margin-left:5%;
+    color: #CC4156;
+}
+.macroons3>button{
+    background-color:#9BCCA3;
+    color: #fff;
+    border: none;
+    padding:1%;
+    border-radius:25px;
+    margin-left:7%;
+    margin-top:2%;}
+
+    .Beverage>h1{
+        color: #CC4156;
+        margin-left:40%;
+    }
+
+    .Beverages>h1{
+        color: #CC4156;
+        margin-left:40%;
+    }
+    .Beverages>h1{
+        padding-top:5%;
+    }
+    .Beverages{
+        display: flex;
+        margin-top:5%;
+    }
+    .Beverages1{
+        margin-left: 20%;
+    }
+    .Beverages1>h1{
+        font-weight: 200%;
+        font-size: large;
+        margin-left:10%;
+        color: #CC4156;
+    }
+    .Beverages2{
+        margin-left:20%;
+    }
+    
+    button{
+        background-color:#9BCCA3;
+        color: #fff;
+        border: none;
+        padding:4%;
+        border-radius:25px;
+        margin-left:15%;
+        margin-top:5%;
+    }
+    .Snacks>h1{
+        color: #CC4156;
+    }
+
+    .Snacks>h1{
+        color: #CC4156;
+        margin-left:-40%;
+    }
+    .Snack{
+        display: flex;
+    }
+    .Snacks1{
+        margin-left:3%;
+    }
+    .Snacks1>h1{
+        font-weight: 200%;
+        font-size: large;
+        margin-left:10%;
+        color: #CC4156;
+    }
+    .Snacks2{
+        margin-left:33%;
+    }
+    .div1{
+        display: flex;
+        margin-left: -100%;
+        margin-top:10%;
+    }
+    .visit-us{padding-top:3%;
+        width:80%;
+        height:80%;
+        background-color: #FFF;
+        margin-top:50%;
+    }
+    
+    .loc{
+        display: flex;
+        margin-left:15%;
+        margin-top:2%;
+    }
+    .loc1{
+        display: flex;
+        margin-left:15%;
+        margin-top:10px;
+    }
+    #visit{
+        margin-left:35%;
+    }
+    .vr{
+        margin-left:20%;
+    }
+
+/* Original styles are untouched, enhancements added below */
+
+/* Enhance buttons with hover effects */
+button {
+    transition: transform 0.2s ease, background-color 0.3s ease;
+}
+button:hover {
+    background-color: #7FBF90;
+    transform: scale(1.1);
+}
+
+/* Add hover effect to navigation links */
+.right > h1:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+/* Smooth image scaling on hover */
+
+
+/* Add animations to section titles */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+h1 {
+    animation: fadeIn 0.8s ease;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .right {
+        flex-direction: column;
+        margin-left: 0;
+    }
+
+    .right > h1 {
+        margin: 5px 0;
+    }
+
+    #left {
+        width: 100%;
+        text-align: center;
+    }
+
+    #right {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .cookies1, .cookies2, .cookies3, .waffles1, .macroons1, .macroons3, .Beverages1, .Snacks1 {
+        margin: 10px auto;
+        text-align: center;
+    }
+
+    button {
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    .visit-us {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .loc, .loc1, .vr {
+        margin: 10px auto;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .nav > img {
+        width: 120px;
+    }
+
+    .right > h1 {
+        font-size: medium;
+    }
+
+    h1 {
+        font-size: larger;
+    }
+
+    img {
+        width: 90%;
+    }
+
+    button {
+        width: 80%;
+    }
+}
